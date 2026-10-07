@@ -1,0 +1,12 @@
+[submodule "yilun-du-rs"]
+	path = yilun-du-rs
+	url = https://github.com/ada-ggf25/yilun-du-rs.git
+	branch = dev
+[submodule "EoM"]
+	path = EoM
+	url = https://github.com/ada-ggf25/EoM.git
+	branch = dev
+[submodule "eom-robotics"]
+	path = eom-robotics
+	url = https://github.com/ada-ggf25/EoM-Robotics.git
+	branch = dev
